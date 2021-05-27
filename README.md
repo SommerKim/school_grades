@@ -27,5 +27,4 @@ https://gis.hcso.tampa.fl.us/publicgis/crimemapping/ - CSV file from Hillsboroug
 ### How We Will Investigate
 We will establish the method for rating schools through the Department of Education databases, then determine the rating of the schools for the Hillsborough County schools we are investigating. We will draw data from the US Census data to establish housing values within the zip codes and compare them to the school ratings in the same zip code. We can draw crime data from the FBI database to determine if there is a correlation between crime rate and property value.
 
-<img width="325" alt="grade_vs_prop_value_regress" src="https://user-images.githubusercontent.com/74261427/119833315-036d4d00-becd-11eb-9a5a-d65d1ec5c1b2.PNG">
-<img width="909" alt="prop_value_heatmap" src="https://user-images.githubusercontent.com/74261427/119833330-0700d400-becd-11eb-9fa3-b9b6337541b7.PNG">
+<img width="541" alt="report_image" src="https://user-images.githubusercontent.com/74261427/119833878-7a0a4a80-becd-11eb-8656-9aee202c49df.PNG">
